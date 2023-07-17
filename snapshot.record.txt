@@ -1,0 +1,15 @@
+/**
+ * SEPOLIA TEST NET
+ * TestAmToken:testMint() (gas: 104088)
+ * TestAmToken:testTokenUri() (gas: 105764)
+  Gas Cost: 209,852
+  ✓ TestAmToken:testMint() (gas: 104088) (73ms)
+  ✓ TestAmToken:testTokenUri() (gas: 105764) (73ms)
+*/
+
+1st deploy after test - 
+address on sepolia chain - 0xd55670682378cCF63ddAcA2849b5C1b19f2B4DE0
+total cost to deploy a nft - 0.00023898 SepoliaETH
+$0.45 USD = 36.93 INR
+
+
